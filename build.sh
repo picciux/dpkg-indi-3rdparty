@@ -7,7 +7,7 @@ BLACKLIST=
 
 [ -f blacklist.lst ] && BLACKLIST=$( cat blacklist.lst )
 
-./download.sh v2.1.5
+./download.sh v2.1.5.1
 
 # enter source folder
 pushd indi-3rdparty

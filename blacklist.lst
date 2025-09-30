@@ -1,3 +1,5 @@
 libricohcamerasdk
 indi-gige
-indi-TicFocuser-ng
+indi-ticfocuser-ng
+indi-astarbox
+indi-libcamera
